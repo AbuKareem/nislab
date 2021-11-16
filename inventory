@@ -1,2 +1,10 @@
+[web_servers]
 student@192.168.10.65
+student@192.168.10.68
+
+[db_servers]
+student@192.168.10.67
+student@192.168.10.68
+
+[file_servers]
 student@192.168.10.67
